@@ -8,6 +8,8 @@ predefined set of fields.
 This page only documents additional notes useful for API users. Consult the `API documentation
 <http://api.xivo.io>`_ for more details.
 
+To consult general info about import CSV (CSV format...), see the `User Import and Export <http://documentation.xivo.io/en/xivo-16.03/administration/users/csv_import.html>`_ page.
+
 
 Uploading files
 ===============
